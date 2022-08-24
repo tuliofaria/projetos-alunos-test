@@ -20,3 +20,8 @@ Antes de aceitar o projeto para ser listado aqui neste repositório, ele deverá
 - [ ] O código fonte deverá possuir um readme.md com informações sobre o projeto, as tecnologias utilizadas, e como executar o projeto;
 - [ ] O projeto deve atender todos os requisitos descritos na descrição do projeto;
 
+## Entrega:
+
+- Clone este repositório para seu Github, crie um novo arquivo markdown neste diretório (perceba que o diretório é `remix/01/`). O arquivo deverá conter o slug de seu nome. Se é a sua primeira entrega, crie também o mesmo arquivo em `students` seguindo o mesmo padrão. O nome do arquivo para Tulio Faria:
+- `remix/01/tulio-faria.md`
+- `students/tulio-faria.md`
