@@ -1,9 +1,8 @@
 ---
 name: Renato Siqueira
-location: Belem
-url: renatosiqueira.dev
-email: renato em gmail.com
+location: Belem / PA / Brazil
+url: https://renatosiqueira.dev
+email: renato[em]gmail.com
 github: renatosiqueira
-linkedin: https://linkedin.com/in/renatosiqueira
-check: sha1(email)
+linkedin: https://www.linkedin.com/in/tuliofaria/
 ---

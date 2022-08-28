@@ -1,0 +1,25 @@
+{
+  "name": "projetos-alunos-test",
+  "version": "1.0.0",
+  "description": "Este repositório lista os projetos de alunos entregues.",
+  "main": "index.js",
+  "scripts": {
+    "validate-students": "node scripts/validate-student"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuliofaria/projetos-alunos-test.git"
+  },
+  "keywords": [],
+  "author": "Tulio Faria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuliofaria/projetos-alunos-test/issues"
+  },
+  "homepage": "https://github.com/tuliofaria/projetos-alunos-test#readme",
+  "dependencies": {
+    "@octokit/rest": "^19.0.4",
+    "axios": "^0.27.2",
+    "front-matter": "^4.0.2"
+  }
+}
