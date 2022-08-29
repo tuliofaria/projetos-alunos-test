@@ -15,6 +15,7 @@ jobs:
           node-version: 16
       - run: npm ci
       - name: validate-students
+        id: validate-students
         run: npm run validate-students
       - name: Comment PR
         uses: thollander/actions-comment-pull-request@v1
