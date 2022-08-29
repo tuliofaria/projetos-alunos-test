@@ -3,7 +3,7 @@ on:
     paths:
       - 'students/**.md'
 jobs:
-  validate:
+  validates:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
