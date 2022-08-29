@@ -1,7 +1,10 @@
 on:
-  pull-request:
+  push:
     paths:
       - 'students/**.md'
+  pull_request:
+    branches:
+      - main
 jobs:
   validates:
     runs-on: ubuntu-latest
