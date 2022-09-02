@@ -11,7 +11,6 @@ Crie um novo projeto com Remix (utilizando Typescript) que atenda as sequintes e
 - O projeto deverá possuir mais de uma rota;
 - Dê preferência para uma API que possua uma listagem e um detalhe (exemplo: listagem de moedas e cotação por moeda);
 - Você pode aplicar estilos / estilizar sua aplicação utilizando a forma que julgar melhor (TailwindCSS, Bootstrap, ...);
-- De preferência para uma API que possua uma listagem e um detalhe;
 
 ## Checklist para review:
 
