@@ -19,4 +19,4 @@ Antes de aceitar o projeto para ser listado aqui neste repositório, ele deverá
 - [ ] O projeto deverá ter seu código fonte publicado no Github e seu link adicionado aos detalhes da entrega;
 - [ ] O projeto deverá ter sido publicado na Vercel (ou em outro provedor) e seu link adicionado aos detalhes da entrega;
 - [ ] O código fonte deverá possuir um readme.md com informações sobre o projeto, as tecnologias utilizadas, e como executar o projeto;
-- [ ] O projeto deve atender todos os requisitos descritos na descrição do projeto;
+- [ ] O projeto deve atender todos os requisitos da descrição do projeto;
