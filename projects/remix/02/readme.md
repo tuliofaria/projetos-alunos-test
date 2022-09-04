@@ -12,6 +12,7 @@ Crie um novo projeto com Remix (utilizando Typescript) que atenda as sequintes e
 - Além de banco de dados, a aplicação deverá integrar uma API externa;
 - O projeto deverá possuir mais de uma rota;
 - Você pode aplicar estilos / estilizar sua aplicação utilizando a forma que julgar melhor (TailwindCSS, Bootstrap, ...);
+- Bônus: utilize cookies para alguma funcionalidade extra (por exemplo, painel administrativo ou gestão de dados específicos de um usuário).
 
 ## Checklist para review:
 
